@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Classification Results</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <canvas id="myChart"></canvas>
+
+    <script>
+        var classProbabilities = {{ class_probabilities }};
+        var classNames = {{ session['class_names']|tojson }};
+
+        var data = {
+            labels: classNames,
+            datasets: [{
+                label: 'Class Probabilities',
+                data: classProbabilities,
+                backgroundColor: 'blue',
+                borderColor: 'blue',
+                borderWidth: 1
+            }]
+        };
+
+        var options = {
+            responsive: true,
+            maintainAspectRatio: true,
+            indexAxis: 'y',
+            scales: {
+                x: {
+                    beginAtZero: true,
+                    max: 1
+                }
+            }
+        };
+
+        var ctx = document.getElementById('myChart').getContext('2d');
+        new Chart(ctx, {
+            type: 'bar',
+            data: data,
+            options: options
+        });
+    </script>
+</body>
+</html>

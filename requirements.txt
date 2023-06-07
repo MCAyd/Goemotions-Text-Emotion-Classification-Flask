@@ -1,0 +1,8 @@
+torch
+transformers
+torchtext
+flask_wtf
+wtforms
+flask_ckeditor
+numpy
+locust

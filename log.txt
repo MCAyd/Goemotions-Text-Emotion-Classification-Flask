@@ -1,0 +1,68 @@
+User input: Glad you enjoyed man, yeah it was pretty spontaneous too, I was praying I wasnt about to pull some bartard move and get jammed lol.
+Sorted results: {'joy': 0.9887, 'amusement': 0.5718, 'other_emotions': 0.0511, 'optimism': 0.004, 'admiration': 0.0024, 'annoyance': 0.0015, 'gratitude': 0.0013, 'disapproval': 0.0007, 'anger': 0.0006, 'confusion': 0.0006, 'sadness': 0.0006, 'neutral': 0.0004, 'curiosity': 0.0003, 'approval': 0.0002, 'love': 0.0002}
+Timestamp: 2023-05-19 00:23:08.951153
+
+User input: That's horrible, good to know she is with an awesome guy.
+Sorted results: {'admiration': 0.9767, 'other_emotions': 0.8304, 'joy': 0.0012, 'confusion': 0.0003, 'gratitude': 0.0003, 'optimism': 0.0003, 'anger': 0.0002, 'curiosity': 0.0002, 'disapproval': 0.0002, 'love': 0.0002, 'amusement': 0.0001, 'annoyance': 0.0001, 'approval': 0.0001, 'sadness': 0.0001, 'neutral': 0.0001}
+Timestamp: 2023-05-19 00:29:41.472029
+
+User input: That's horrible, good to know she is with an awesome guy.
+Sorted results: {'admiration': 0.9767, 'other_emotions': 0.8304, 'joy': 0.0012, 'confusion': 0.0003, 'gratitude': 0.0003, 'optimism': 0.0003, 'anger': 0.0002, 'curiosity': 0.0002, 'disapproval': 0.0002, 'love': 0.0002, 'amusement': 0.0001, 'annoyance': 0.0001, 'approval': 0.0001, 'sadness': 0.0001, 'neutral': 0.0001}
+Timestamp: 2023-05-19 00:48:48.714362
+
+User input: lolll
+Sorted results: {'amusement': 0.9398, 'joy': 0.0178, 'other_emotions': 0.0135, 'neutral': 0.0114, 'sadness': 0.0011, 'annoyance': 0.0002, 'admiration': 0.0001, 'anger': 0.0001, 'approval': 0.0001, 'confusion': 0.0001, 'curiosity': 0.0001, 'disapproval': 0.0001, 'gratitude': 0.0001, 'love': 0.0001, 'optimism': 0.0001}
+Timestamp: 2023-05-19 00:48:57.143137
+
+User input: haha so funny stuff
+Sorted results: {'amusement': 0.991, 'joy': 0.0057, 'admiration': 0.0008, 'other_emotions': 0.0005, 'anger': 0.0004, 'gratitude': 0.0004, 'optimism': 0.0004, 'annoyance': 0.0003, 'sadness': 0.0003, 'neutral': 0.0003, 'approval': 0.0002, 'confusion': 0.0002, 'curiosity': 0.0002, 'disapproval': 0.0002, 'love': 0.0002}
+Timestamp: 2023-05-19 00:49:01.734377
+
+User input: Damn, that was brilliantly put. Thank you. I screenshotted it to use on Twitter. Is that ok?
+Sorted results: {'gratitude': 0.9978, 'admiration': 0.9565, 'anger': 0.0018, 'confusion': 0.0014, 'disapproval': 0.0013, 'neutral': 0.0013, 'optimism': 0.0012, 'annoyance': 0.001, 'amusement': 0.0009, 'curiosity': 0.0009, 'love': 0.0008, 'joy': 0.0007, 'other_emotions': 0.0006, 'sadness': 0.0005, 'approval': 0.0003}
+Timestamp: 2023-05-19 00:50:08.547404
+
+User input: Damn, that was brilliantly put. Thank you. I screenshotted it to use on Twitter. Is that ok?
+Sorted results: {'gratitude': 0.9978, 'admiration': 0.9565, 'anger': 0.0018, 'confusion': 0.0014, 'disapproval': 0.0013, 'neutral': 0.0013, 'optimism': 0.0012, 'annoyance': 0.001, 'amusement': 0.0009, 'curiosity': 0.0009, 'love': 0.0008, 'joy': 0.0007, 'other_emotions': 0.0006, 'sadness': 0.0005, 'approval': 0.0003}
+Timestamp: 2023-05-19 00:51:07.692928
+
+User input: Glad you enjoyed man, yeah it was pretty spontaneous too, I was praying I wasnt about to pull some bartard move and get jammed lol.
+Sorted results: {'joy': 0.9887, 'amusement': 0.5718, 'other_emotions': 0.0511, 'optimism': 0.004, 'admiration': 0.0024, 'annoyance': 0.0015, 'gratitude': 0.0013, 'disapproval': 0.0007, 'anger': 0.0006, 'confusion': 0.0006, 'sadness': 0.0006, 'neutral': 0.0004, 'curiosity': 0.0003, 'approval': 0.0002, 'love': 0.0002}
+Timestamp: 2023-05-20 21:25:23.197219
+
+User input: hello world, thanks for having me.
+Sorted results: {'gratitude': 0.9963, 'neutral': 0.0045, 'disapproval': 0.0006, 'annoyance': 0.0005, 'love': 0.0005, 'other_emotions': 0.0005, 'joy': 0.0004, 'admiration': 0.0003, 'anger': 0.0003, 'confusion': 0.0003, 'sadness': 0.0003, 'amusement': 0.0002, 'approval': 0.0002, 'curiosity': 0.0002, 'optimism': 0.0002}
+Timestamp: 2023-05-21 00:00:18.877067
+
+User input: lol, so funny stuff. Absolutely should be watched by others.
+Sorted results: {'amusement': 0.9674, 'joy': 0.2561, 'annoyance': 0.0008, 'disapproval': 0.0008, 'admiration': 0.0006, 'approval': 0.0005, 'optimism': 0.0005, 'other_emotions': 0.0005, 'anger': 0.0003, 'curiosity': 0.0003, 'sadness': 0.0003, 'confusion': 0.0002, 'love': 0.0002, 'neutral': 0.0002, 'gratitude': 0.0001}
+Timestamp: 2023-05-21 00:00:44.408370
+
+User input: Glad you enjoyed man, yeah it was pretty spontaneous too, I was praying I wasnt about to pull some bartard move and get jammed lol.
+Sorted results: {'joy': 0.9887, 'amusement': 0.5718, 'other_emotions': 0.0511, 'optimism': 0.004, 'admiration': 0.0024, 'annoyance': 0.0015, 'gratitude': 0.0013, 'disapproval': 0.0007, 'anger': 0.0006, 'confusion': 0.0006, 'sadness': 0.0006, 'neutral': 0.0004, 'curiosity': 0.0003, 'approval': 0.0002, 'love': 0.0002}
+Timestamp: 2023-05-21 01:14:11.064005
+
+User input: "It's great that you're a recovering addict, that's cool. Have you ever tried DMT?"
+Sorted results: {'admiration': 0.9984, 'curiosity': 0.6139, 'joy': 0.0023, 'annoyance': 0.0021, 'approval': 0.002, 'amusement': 0.0019, 'sadness': 0.0009, 'disapproval': 0.0008, 'other_emotions': 0.0008, 'gratitude': 0.0007, 'neutral': 0.0007, 'anger': 0.0005, 'optimism': 0.0005, 'confusion': 0.0004, 'love': 0.0003}
+Timestamp: 2023-05-21 01:16:18.961255
+
+User input: "I know you're joking, but there are people here either stupid or desperate enough to believe and perpetuate such idiocy. "
+Sorted results: {'amusement': 0.9718, 'annoyance': 0.0477, 'neutral': 0.0154, 'optimism': 0.0034, 'disapproval': 0.0011, 'approval': 0.0005, 'joy': 0.0005, 'anger': 0.0002, 'confusion': 0.0002, 'curiosity': 0.0002, 'sadness': 0.0002, 'admiration': 0.0001, 'gratitude': 0.0001, 'love': 0.0001, 'other_emotions': 0.0001}
+Timestamp: 2023-05-21 01:16:29.881500
+
+User input: "This guy is a little turd but I love him so dearly. I'll pass on your kisses :)"
+Sorted results: {'love': 0.999, 'other_emotions': 0.0023, 'optimism': 0.002, 'neutral': 0.0015, 'annoyance': 0.001, 'gratitude': 0.001, 'sadness': 0.001, 'anger': 0.0009, 'curiosity': 0.0009, 'confusion': 0.0008, 'disapproval': 0.0008, 'admiration': 0.0007, 'amusement': 0.0006, 'approval': 0.0006, 'joy': 0.0003}
+Timestamp: 2023-05-21 01:16:41.369575
+
+User input: "A surprise turn of events! I'm so glad you heard such great things about yourself!"
+Sorted results: {'other_emotions': 0.9987, 'admiration': 0.9266, 'joy': 0.8506, 'optimism': 0.066, 'approval': 0.0099, 'gratitude': 0.0099, 'neutral': 0.0022, 'anger': 0.0018, 'disapproval': 0.0012, 'curiosity': 0.0011, 'annoyance': 0.001, 'confusion': 0.0008, 'sadness': 0.0008, 'love': 0.0004, 'amusement': 0.0001}
+Timestamp: 2023-05-21 01:16:51.997092
+
+User input: "I know people around here may mock me from my optimism but what if we get actual desings for the crusaders in Heroes?"
+Sorted results: {'curiosity': 0.9993, 'confusion': 0.4629, 'optimism': 0.007, 'neutral': 0.006, 'admiration': 0.0031, 'anger': 0.002, 'joy': 0.0019, 'amusement': 0.0018, 'love': 0.0017, 'annoyance': 0.0015, 'sadness': 0.0014, 'disapproval': 0.001, 'approval': 0.0009, 'gratitude': 0.0007, 'other_emotions': 0.0004}
+Timestamp: 2023-05-21 01:29:59.766429
+
+User input: hello world thanks for having me
+Sorted results: {'gratitude': 0.9964, 'neutral': 0.0273, 'love': 0.0008, 'annoyance': 0.0006, 'disapproval': 0.0005, 'admiration': 0.0003, 'anger': 0.0003, 'confusion': 0.0003, 'joy': 0.0003, 'sadness': 0.0003, 'amusement': 0.0002, 'approval': 0.0002, 'curiosity': 0.0002, 'optimism': 0.0002, 'other_emotions': 0.0002}
+Timestamp: 2023-05-23 01:37:41.518691
+
